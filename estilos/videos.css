@@ -1,0 +1,22 @@
+.c1{
+
+padding: 20px;
+
+
+}
+iframe{
+    margin: 10px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+body{
+    background-image: url("../imegens/ete.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3, h2{
+    color: white;
+    margin: 15px;
+}

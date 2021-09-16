@@ -1,0 +1,27 @@
+p{
+   text-align: justify;
+   text-indent: 50px;
+  margin-right: 20px;
+  margin-left: 10px;
+ color: black;
+}
+.a{
+    border: 1px solid black;
+    box-shadow: 1px 2px 3px black;
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+}
+
+body{
+    background-image: url(../imegens/ete.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2, h3{
+    color:white;
+    margin: 20px;
+}
+h4{
+    color: black;
+}

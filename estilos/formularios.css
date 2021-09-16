@@ -1,0 +1,39 @@
+body{
+    background-image: url("../imegens/ete.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+label{
+    color: seashell;
+}
+
+#for01{
+    width: 700px;
+}
+
+#divA{
+  margin: 30px;
+}
+
+#divB{
+    display: inline-block;
+}
+
+h2{
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#botao{
+    width: 200px;
+}
+#ima{
+    margin-left: 750px;
+    margin-top: -450px;
+}
+#com{
+    margin-left:750px;
+    color: white;
+    margin-top: -40px;
+}

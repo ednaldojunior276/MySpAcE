@@ -1,0 +1,36 @@
+body{
+    background-image: url("../imegens/ete.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+}
+
+
+.a{
+
+    background-color: rgb(4, 4, 4, 0.4 );
+    color: seashell;
+    height:150px;
+    width: auto;
+   
+}   
+h1{
+    color: seashell;
+    margin: 20px;
+}
+#pp{
+    padding: 10px;
+    text-indent: 50px;
+    text-align: justify;
+    text-align: center;
+
+}
+.exp{
+    text-align: center;
+    margin-top: 100px;
+}
+#btn{
+   padding-left: 100px; 
+   padding-right: 100px;
+}
